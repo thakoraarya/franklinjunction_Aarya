@@ -1,3 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .cool-link {
+    display: inline-block;
+    color: #F2E0D5;
+    text-decoration: none;
+
+  }
+.cool-link:hover {
+  color: #D97762;
+  }
+
+  .cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 3px;
+    background: #D9501E;
+    transition: width .3s;
+  }
+
+  .cool-link:hover::after {
+    width: 100%;
+
+  }
+
+
+
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
