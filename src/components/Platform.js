@@ -14,79 +14,79 @@ const Platform = () => {
       </div>
       {/* cards */}
       <div className='flex flex-row text-fjwhite  bg-fjorange rounded-xl  '>
-        <img className='  h-3/6 p-4   justify-between' src={p1} />
+        <img className='  h-20 w-20 p-4   justify-between' src={p1} />
         <div className='w-fit p-4'>
-          <p>Host Kitchen® Matching</p>
+           <p className=' flex '>Host Kitchen® Matching</p>
           <br />
-          <p>Patented algorithm that creates the ideal match of a host to a Cloud Concept®.</p>
+           <p className=' flex '>Patented algorithm that creates the ideal match of a host to a Cloud Concept®.</p>
         </div>
       </div>
 
       {/* cards */}
       <div className='flex flex-row text-fjwhite  bg-fjorange rounded-xl '>
-        <img className='  h-3/6 p-4   justify-between' src={p2} />
+        <img className='  h-20 w-20 p-4   justify-between' src={p2} />
         <div className='w-fit p-4'>
-          <p>Digital Marketing</p>
+           <p className=' flex '>Digital Marketing</p>
           <br />
-          <p>Increased awareness, purchase, and loyalty through tailored marketing.</p>
+           <p className=' flex '>Increased awareness, purchase, and loyalty through tailored marketing.</p>
         </div>
       </div>
 
        {/* cards */}
        <div className=' flex flex-row text-fjwhite  bg-fjorange rounded-xl'>
-          <img className='  h-3/6 p-4   justify-between' src={p3} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p3} />
           <div className='w-fit p-4'>
-            <p>Aggregation and Integration</p>
+             <p className=' flex '>Aggregation and Integration</p>
             <br />
-            <p>Unified view of multiple channel activity.</p>
+             <p className=' flex '>Unified view of multiple channel activity.</p>
           </div>
         </div>
         {/* cards */}
         <div className='flex flex-row text-fjwhite  bg-fjorange rounded-xl'>
-          <img className='  h-3/6 p-4   justify-between' src={p4} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p4} />
           <div className='w-fit p-4'>
-            <p>Full-Service Administration</p>
+             <p className=' flex '>Full-Service Administration</p>
             <br />
-            <p>Governance of third-party marketplaces including storefront management, contract negotiation, revenue reconciliation, and dispute resolution.</p>
+            <p className=' flex '>Governance of third-party marketplaces including storefront management, contract negotiation, revenue reconciliation, and dispute resolution.</p>
           </div>
         </div>
 
         {/* cards */}
         <div className='flex flex-row text-fjwhite  bg-fjorange rounded-xl'>
-          <img className='  h-3/6 p-4   justify-between' src={p5} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p5} />
           <div className='w-fit p-4'>
-            <p>Ordering + Payment</p>
+             <p className=' flex '>Ordering + Payment</p>
             <br />
-            <p>Branded online ordering sites, virtual food halls, and apps featuring frictionless payments.</p>
+             <p className=' flex '>Branded online ordering sites, virtual food halls, and apps featuring frictionless payments.</p>
           </div>
         </div>
 
          {/* cards */}
          <div className='text-fjwhite  bg-fjorange rounded-xl flex flex-row'>
-          <img className='  h-3/6 p-4   justify-between' src={p6} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p6} />
           <div className='w-fit p-4'>
-            <p>Menu Mix Optimization</p>
+             <p className=' flex '>Menu Mix Optimization</p>
             <br />
-            <p>A/B testing, competitive landscape analysis, customer feedback loops, and more.</p>
+             <p className=' flex '>A/B testing, competitive landscape analysis, customer feedback loops, and more.</p>
           </div>
         </div>
         {/* cards */}
         <div className='text-fjwhite  bg-fjorange rounded-xl  flex flex-row'>
-          <img className='  h-3/6 p-4   justify-between' src={p7} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p7} />
           <div className='w-fit p-4'>
-            <p>Dynamic Segmentation</p>
+             <p className=' flex '>Dynamic Segmentation</p>
             <br />
-            <p>Responsive consumer journeys and communications based in behavior, demographics, and external data.</p>
+             <p className=' flex '>Responsive consumer journeys and communications based in behavior, demographics, and external data.</p>
           </div>
         </div>
 
         {/* cards */}
         <div className='text-fjwhite  bg-fjorange rounded-xl flex flex-row '>
-          <img className='  h-3/6 p-4   justify-between' src={p8} />
+          <img className='  h-20 w-20 p-4   justify-between' src={p8} />
           <div className='w-fit p-4'>
-            <p>Loyalty and CRM</p>
+             <p className=' flex '>Loyalty and CRM</p>
             <br />
-            <p>Heightened engagement and frequency from guest segmentation, automated messaging, and gamified loyalty schemes.</p>
+             <p className=' flex '>Heightened engagement and frequency from guest segmentation, automated messaging, and gamified loyalty schemes.</p>
           </div>
         </div>
 

@@ -3,15 +3,15 @@ import { video, img1 } from '../Assets/Assets'
 const Landing = () => {
     return (
         <div>
-            <div className='w-screen relative'>
+            <div className='w-screen relative mt-24'>
                 <div className=' absolute  text-fjwhite w-full  top-[40%]'>
-                    <p className='text-6xl flex justify-center font-bold relative z-10 '>
+                    <p className='text-6xl sm:text-3xl flex justify-center font-bold relative z-10 '>
                         EMPOWERING RESTAURANTS
                     </p>
-                    <p className='text-6xl flex justify-center font-bold relative    z-10'>
+                    <p className='text-6xl sm:text-3xl flex justify-center font-bold relative    z-10'>
                         TO SUCCEED IN THE DIGITAL AGE.
                     </p>
-                    <p className='text-3xl flex justify-center font-light relative  z-10'>
+                    <p className='text-3xl sm:text-xl flex justify-center font-light relative  z-10'>
                         UNIFIED ECOMMERCE. FULL-SERVICE MANAGEMENT.
                     </p>
                     <br />
@@ -28,8 +28,8 @@ const Landing = () => {
 
 
             </div>
-            <div className=' flex justify-between'>
-                <img className='w-1/2 p-10' src={img1} />
+            <div className=' flex justify-between h-fit w-full'>
+                <img className='w-1/2 p-10 object-cover' src={img1} />
                 <div className='flex flex-col justify-center align-middle w-fit p-10'>
                     <div className=' text-4xl font-bold text-fjorange text-center'>
                         <p>Solutions Beyond Software:

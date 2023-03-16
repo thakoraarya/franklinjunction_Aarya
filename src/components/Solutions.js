@@ -12,7 +12,7 @@ const Solutions = () => {
       <div className='flex'>
 
         {/* card1 */}
-        <div className='flex flex-col  items-center  mx-7 p-5 rounded-3xl max-h-fit border-fjblue border-8'>
+        <div className='flex flex-col  items-center  mx-7 p-5 rounded-xl max-h-fit border-fjblue border-4'>
           <p className='text-3xl text-fjorange font-bold uppercase'>Host Kitchen® Network</p>
           <img src={card1} alt="card1" className='my-10' />
           <p className='text-2xl mb-10  text-fjorange font-bold '>Attract and retain profitable guests via your own channels</p>
@@ -31,7 +31,7 @@ const Solutions = () => {
 
 
         {/* card2 */}
-        <div className='flex flex-col  items-center  mx-7 p-5 rounded-3xl max-h-fit border-fjblue border-8'>
+        <div className='flex flex-col  items-center -translate-y-10 mx-7 p-5 rounded-xl max-h-fit border-fjblue border-4'>
           <p className='text-3xl text-fjorange font-bold uppercase'>Intelligent First Party</p>
           <img src={card2} alt="card1" className='my-10 ' />
           <p className='text-2xl mb-10  text-fjorange font-bold '>          Add additional brands to your operations for more profits
@@ -48,7 +48,7 @@ const Solutions = () => {
 
 
         {/* card3 */}
-        <div className='flex flex-col  items-center  mx-7 p-5 rounded-3xl max-h-fit border-fjblue border-8'>
+        <div className='flex flex-col  items-center  mx-7 p-5 rounded-xl max-h-fit border-fjblue border-4'>
           <p className='text-3xl text-fjorange font-bold uppercase'>3rd Party Governance</p>
           <img src={card3} alt="card1" className='my-10' />
           <p className='text-xl mb-10  text-fjorange font-bold '>Win back time, money, and customers through expert stewardship</p>

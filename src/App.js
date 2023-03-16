@@ -15,7 +15,7 @@ function App() {
 
 
   return (
-    <div className="bg-black w-screen">
+    <div className="bg-fjblue black w-full overflow-y-hidden">
       <Navbar />
       <Landing />
 
@@ -34,7 +34,6 @@ function App() {
 
       <ScrollToTop smooth color='#F2C744' />
 
-      {/* <button className='bg-fjorange p-2 fixed bottom-10  right-10 z-50' onclick={topFunction()} id="myBtn" title="Go to top">Top</button> */}
     </div>
   );
 }
