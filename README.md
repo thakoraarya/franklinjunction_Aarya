@@ -3,6 +3,7 @@
 ### https://franklinjunction.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Goto Previews folder to see the screenshots of the website 
 ## Available Scripts
 
 In the project directory, you can run:
