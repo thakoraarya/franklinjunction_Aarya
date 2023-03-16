@@ -1,5 +1,6 @@
-# enhancing the given website
+# Enhancing the given website
 
+### https://franklinjunction.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -14,9 +15,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-the changes i have made in this website are 1st of all the language 
-this website is made in reactJS.
-with tailwind CSS
 
-# the changes
+# THE CHANGES
 
+1. The color palette
+2. the navigation bar
+3. the cards in solutions section
+4. platform section layout
+5. user experience
+6. news section
+7. about us section
+8. Form
+
+# THE ENHANCEMENTS STILL NEEDS TO DO
+
+1. THE COLOR PALETTE
+2. THE ANIMATIONS
+3. RESPONSIVE
+4. TYPOGRAPHY
+5. PRELOADING OF MEDIA
