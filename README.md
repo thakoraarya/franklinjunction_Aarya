@@ -1,4 +1,4 @@
-# Enhancing the given website
+# ENHANCING THE GIVEN WEBSITE
 
 ### https://franklinjunction.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
